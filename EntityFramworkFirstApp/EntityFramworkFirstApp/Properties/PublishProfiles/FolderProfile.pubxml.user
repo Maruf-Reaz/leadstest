@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\EnityFrameworkApplication</_PublishTargetUrl>
+    <History>True|2021-10-17T10:57:46.6298722Z;True|2021-10-17T15:38:19.6926127+06:00;False|2021-10-17T15:34:54.4565717+06:00;</History>
+  </PropertyGroup>
+</Project>
